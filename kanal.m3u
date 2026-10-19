@@ -41,6 +41,24 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="LifeTV.tr" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" tvg-name="LIFE TV",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BeIN_Sports_1_logo.png/512px-BeIN_Sports_1_logo.png" tvg-name="beIN SPORTS 1",beIN SPORTS 1
+https://ladyboy.ardastream2.cfd/beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BeIN_Sports_1_logo.png/512px-BeIN_Sports_1_logo.png" tvg-name="beIN SPORTS 1 (Yedek)",beIN SPORTS 1 (Yedek)
+https://ladyboy.ardatvgs.cfd//hls/bein1.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BeIN_Sports_2_logo.png/512px-BeIN_Sports_2_logo.png" tvg-name="beIN SPORTS 2",beIN SPORTS 2
+https://ladyboy.ardatvgs.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BeIN_Sports_3_logo.png/512px-BeIN_Sports_3_logo.png" tvg-name="beIN SPORTS 3",beIN SPORTS 3
+https://ladyboy.ardatvgs.cfd//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BeIN_Sports_4_logo.png/512px-BeIN_Sports_4_logo.png" tvg-name="beIN SPORTS 4",beIN SPORTS 4
+https://ladyboy.ardatvgs.cfd//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BeIN_Sports_5_logo.png/512px-BeIN_Sports_5_logo.png" tvg-name="beIN SPORTS 5",beIN SPORTS 5
+https://ladyboy.ardatvgs.cfd//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BeIN_Sports_Max_1_logo.png/512px-BeIN_Sports_Max_1_logo.png" tvg-name="beIN SPORTS MAX 1",beIN SPORTS MAX 1
+https://ladyboy.ardatvgs.cfd//beinmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S_Sport_logo.png/512px-S_Sport_logo.png" tvg-name="S Sport",S Sport
+https://ladyboy.ardatvgs.cfd//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/S_Sport_2_logo.png/512px-S_Sport_2_logo.png" tvg-name="S Sport 2",S Sport 2
+https://ladyboy.ardatvgs.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" tvg-name="TJK TV",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" tvg-name="FB TV",FB TV
@@ -80,7 +98,7 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="MUZIK" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" tvg-name="KRAL POP",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 group-title="MUZIK" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
+#EXTINF:-1 group-title="MUZIK" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" tvg-name="NR1",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 group-title="MUZIK" tvg-id="NR1FashionOne.tr" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" tvg-name="NR1 FASHION ONE",NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
@@ -109,6 +127,29 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="ZarokTV.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" tvg-name="Zarok TV",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png" tvg-name="1. Yansıma Sinema",1. Yansıma Sinema
+https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png" tvg-name="2. Yansıma Nostalji",2. Yansıma Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png" tvg-name="3. Max Premier",3. Max Premier
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png" tvg-name="5. Max Yerli",5. Max Yerli
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/30/E3AVy7.png" tvg-name="6. Teleon",6. Teleon
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png" tvg-name="7. Tebertürk 1",7. Tebertürk 1
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png" tvg-name="8. Tebertürk 2",8. Tebertürk 2
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png" tvg-name="22. B Sinema",22. B Sinema
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png" tvg-name="25. SDM Sinema",25. SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png" tvg-name="26. Deniz Sinema",26. Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png" tvg-name="27. İşviçre TV",27. İşviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="YEREL & DİĞER" tvg-id="4UTV.tr" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" tvg-name="4U TV",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
