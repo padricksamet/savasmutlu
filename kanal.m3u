@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:-1 group-title="Ulusal" tvg-name="TRT 1",TRT 1
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/8Qp4Z3e.png" tvg-name="TRT 1",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Show TV",Show TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/2Y57z6F.png" tvg-name="Show TV",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="NOW TV",NOW TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/X4y2cQp.png" tvg-name="NOW TV",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="TV8",TV8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/L7r8V9z.png" tvg-name="TV8",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="TV4",TV4
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/5Z3x9wM.png" tvg-name="TV4",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Kanal 7",Kanal 7
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/1Q8r3vN.png" tvg-name="Kanal 7",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Beyaz TV",Beyaz TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/9K2x7pL.png" tvg-name="Beyaz TV",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Nostalji TV",Nostalji TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/3V7w2kQ.png" tvg-name="Nostalji TV",Nostalji TV
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="GRT",GRT
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/6P5x8mN.png" tvg-name="GRT",GRT
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Ülke TV",Ülke TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/4N2v6pK.png" tvg-name="Ülke TV",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-name="Şaban TV",Şaban TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/7R3q1zW.png" tvg-name="Şaban TV",Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-name="aSPOR",aSPOR
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/8K2x9pL.png" tvg-name="aSPOR",aSPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="beIN SPORTS 1",beIN SPORTS 1
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/4X7w2kQ.png" tvg-name="beIN SPORTS 1",beIN SPORTS 1
 https://ladyboy.ardastream2.cfd/beintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 1 tv",BEYİN 1 tv
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/4X7w2kQ.png" tvg-name="beIN SPORTS 1",BEYİN 1 tv
 https://ladyboy.ardatvgs.cfd//hls/bein1.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 2 tv",BEYİN 2 tv
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/6P5x8mN.png" tvg-name="beIN SPORTS 2",BEYİN 2 tv
 https://ladyboy.ardatvgs.cfd//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 3 TV",BEYİN 3 TV
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/9K2x7pL.png" tvg-name="beIN SPORTS 3",BEYİN 3 TV
 https://ladyboy.ardatvgs.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="Beyin 4",Beyin 4
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/2Y57z6F.png" tvg-name="beIN SPORTS 4",Beyin 4
 https://ladyboy.ardatvgs.cfd//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 5",BEYİN 5
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/X4y2cQp.png" tvg-name="beIN SPORTS 5",BEYİN 5
 https://ladyboy.ardatvgs.cfd//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="Beyin Max 1",Beyin Max 1
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/L7r8V9z.png" tvg-name="beIN SPORTS Max 1",Beyin Max 1
 https://ladyboy.ardatvgs.cfd//beinmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="S Sportt",S Sportt
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/5Z3x9wM.png" tvg-name="S Sport",S Sportt
 https://ladyboy.ardatvgs.cfd//s-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Spor" tvg-name="S Sportt 2",S Sportt 2
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/1Q8r3vN.png" tvg-name="S Sport 2",S Sportt 2
 https://ladyboy.ardatvgs.cfd//s-sport2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",1. Yansıma Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png" tvg-name="1. Yansıma Sinema",1. Yansıma Sinema
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",2. Yansıma Nostalji
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png" tvg-name="2. Yansıma Nostalji",2. Yansıma Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png",3. Max Premier
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png" tvg-name="3. Max Premier",3. Max Premier
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png",5. Max Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png" tvg-name="5. Max Yerli",5. Max Yerli
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/30/E3AVy7.png",6. Teleon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/30/E3AVy7.png" tvg-name="6. Teleon",6. Teleon
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png",7. Tebertürk 1
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png" tvg-name="7. Tebertürk 1",7. Tebertürk 1
 http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",8. Tebertürk 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png" tvg-name="8. Tebertürk 2",8. Tebertürk 2
 http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",22. B Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png" tvg-name="22. B Sinema",22. B Sinema
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png",25. SDM Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png" tvg-name="25. SDM Sinema",25. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",26. Deniz Sinema
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png" tvg-name="26. Deniz Sinema",26. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png",27. İşviçre TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png" tvg-name="27. İşviçre TV",27. İşviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
