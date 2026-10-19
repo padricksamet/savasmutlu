@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ulusal" tvg-name="TRT 1",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Show TV",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="NOW TV",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="TV8",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="TV4",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Kanal 7",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Beyaz TV",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Nostalji TV",Nostalji TV
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="GRT",GRT
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Ülke TV",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-name="Şaban TV",Şaban TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-name="aSPOR",aSPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 group-title="Spor" tvg-name="beIN SPORTS 1",beIN SPORTS 1
+https://ladyboy.ardastream2.cfd/beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 1 tv",BEYİN 1 tv
+https://ladyboy.ardatvgs.cfd//hls/bein1.m3u8
+#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 2 tv",BEYİN 2 tv
+https://ladyboy.ardatvgs.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Spor" tvg-name="BEYİN 3 TV",BEYİN 3 TV
+https://ladyboy.ardatvgs.cfd//bein3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",1. Yansıma Sinema
+https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",2. Yansıma Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png",3. Max Premier
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png",5. Max Yerli
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/30/E3AVy7.png",6. Teleon
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png",7. Tebertürk 1
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",8. Tebertürk 2
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",22. B Sinema
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png",25. SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",26. Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png",27. İşviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
